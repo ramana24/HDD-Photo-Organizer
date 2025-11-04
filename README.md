@@ -12,4 +12,8 @@ Organize 10 years of photos by date (Year/Month/Day), with options to copy or mo
 ## Setup & Usage
 
 1. Clone/download this repo.
-2. Install dependencies:
+  
+   Run the app:
+   open dist folder and run on Windows Os
+   <img width="1218" height="183" alt="image" src="https://github.com/user-attachments/assets/254cc9cb-d0b3-4c68-9377-c9eefa08c8fa" />
+
